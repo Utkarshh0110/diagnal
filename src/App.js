@@ -32,7 +32,6 @@ export default function App() {
                 filterData.map((item, index) => {
                   return <Cards key={index} item={item} />;
                 })}
-              {/* {loading && hasMore && <div>Loading...</div>} */}
             </div>
           )}
           urlFn={getData}
