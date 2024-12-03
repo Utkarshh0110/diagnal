@@ -1,0 +1,3 @@
+export const DATA_FROM_API = "DATA_FROM_API";
+export const SET_SEARCH_TERM = "SET_SEARCH_TERM";
+export const SET_FILTER_DATA = "SET_FILTER_DATA";
